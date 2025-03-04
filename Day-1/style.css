@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(255, 105, 105);
+    color: rgb(4, 40, 71);
+}
+
+td{
+    border: 2px solid black;
+}
